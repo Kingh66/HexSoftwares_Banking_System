@@ -31,7 +31,7 @@ A Java Swing-based ATM simulation system integrated with MySQL for secure bankin
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/atm-banking-system.git
+git clone https://github.com/kingh66/atm-banking-system.git
 cd atm-banking-system
 ```
 
@@ -77,8 +77,8 @@ Update your `DatabaseManager.java` with your MySQL credentials:
 
 ```java
 private static final String DB_URL = "jdbc:mysql://localhost:3306/banking_system";
-private static final String DB_USER = "your_username";
-private static final String DB_PASSWORD = "your_password";
+private static final String DB_USER = "";
+private static final String DB_PASSWORD = "";
 ```
 
 ### 4. Build & Run the Project
