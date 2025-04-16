@@ -8,7 +8,7 @@ import java.util.Properties;
 public class DatabaseManager {
     private static final String DB_URL = "jdbc:mysql://localhost:3306/banking_system";
     private static final String DB_USER = "root";
-    private static final String DB_PASSWORD = "Sizwe22";
+    private static final String DB_PASSWORD = "*******";
     private static final int MAX_RETRIES = 3;
     private static final int ACCOUNT_NUMBER_LENGTH = 10;
 
